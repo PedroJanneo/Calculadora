@@ -3,8 +3,8 @@ Este foi de fato o meu primeiro projeto que considereo projeto kkkkk, é algo be
 
 ## Tecnologias usadas:
 
--``HTML``
+- ``HTML``
 
--``CSS``
+- ``CSS``
 
--``JAVASCRIPT``
+- ``JAVASCRIPT``
